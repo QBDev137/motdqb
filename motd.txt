@@ -1,9 +1,9 @@
 Welcome to QB!
-This game uses the Gorilla Tag movement system developed by lemming.
+This game uses the Gorilla Tag movement system developed by Lemming.
 
 This game is expected to be released around august or september so
 if you want you can join our adventure to developing an amazing game.
 We just updated the map for good testing!
 
--QB, Tys
+Discord Coming Soon!
                                                             v.0.2.2
